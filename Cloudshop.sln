@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloudshop", "Cloudshop.csproj", "{3A8D93A7-1A67-4DD7-AAB7-F9924563767D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloudshop.Tests", "..\Cloudshop.Tests\Cloudshop.Tests.csproj", "{C3A3BD38-E9D1-4178-ABE2-3121E5B5BC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8D93A7-1A67-4DD7-AAB7-F9924563767D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8D93A7-1A67-4DD7-AAB7-F9924563767D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8D93A7-1A67-4DD7-AAB7-F9924563767D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8D93A7-1A67-4DD7-AAB7-F9924563767D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A3BD38-E9D1-4178-ABE2-3121E5B5BC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A3BD38-E9D1-4178-ABE2-3121E5B5BC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A3BD38-E9D1-4178-ABE2-3121E5B5BC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A3BD38-E9D1-4178-ABE2-3121E5B5BC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF30737-DC1C-4E1D-A2C1-E715F4FFE5CE}
+	EndGlobalSection
+EndGlobal
